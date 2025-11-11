@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import PokemonCard from "../../components/pokemonCard";
+import PokemonCard from "../../components/PokemonCard";
 import { usePokemonList } from "../../hooks/usePokemonList";
 
 export default function PokemonList() {
